@@ -866,9 +866,13 @@ h6,
 #menu-2k .close-icon::after {
   background-color: #ffffff;
 }
-#msg-box4-32 DIV {
-  font-size: 25px;
+#msg-box6-2n .mbr-section-title,
+#msg-box6-2n .lead p {
+  color: #fff;
+}
+#msg-box6-2n P {
   font-family: 'Lora', serif;
+  font-size: 18px;
 }
 
 
